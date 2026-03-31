@@ -56,4 +56,4 @@ EOF
       uses: actions/upload-artifact@v4
       with:
         name: DeliveryPorecatu-iOS
-        path: bin/Release/net8.0-ios/ios/publish/*.ipa
+        path: bin/Release/net8.0-ios/ios/publish/*.ipa.

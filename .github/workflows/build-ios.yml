@@ -47,11 +47,8 @@ jobs:
       - name: Restaurar pacotes
         run: dotnet restore
         
-      - name: Build do projeto
-        run: dotnet build -f net8.0-ios -c Release --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
-          
       - name: Publicar para iOS
-        run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:ArchiveOnBuild=true
+        run: dotnet publish -f net8.0-ios -c Release --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:ArchiveOnBuild=true
           
       - name: Upload IPA
         uses: actions/upload-artifact@v4

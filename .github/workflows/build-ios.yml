@@ -18,6 +18,14 @@ jobs:
       with:
         dotnet-version: 8.0.x
         
+    - name: Forçar uso do .NET 8 (ignorar SDKs mais novos)
+      run: |
+        echo "DOTNET_ROLL_FORWARD=Disable" >> $GITHUB_ENV
+        echo "DOTNET_SKIP_FIRST_TIME_EXPERIENCE=true" >> $GITHUB_ENV
+        
+    - name: Verificar versão do SDK
+      run: dotnet --info
+      
     - name: Instalar workloads do MAUI para .NET 8
       run: |
         dotnet workload update
@@ -25,13 +33,13 @@ jobs:
         dotnet workload install ios
         
     - name: Restaurar pacotes
-      run: dotnet restore
+      run: dotnet restore --disable-parallel
       
     - name: Compilar para iOS
-      run: dotnet build -f net8.0-ios -c Release
+      run: dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel
       
     - name: Publicar para iOS
-      run: dotnet publish -f net8.0-ios -c Release
+      run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel
       
     - name: Fazer upload do IPA
       uses: actions/upload-artifact@v4

@@ -1,0 +1,39 @@
+﻿name: Build iOS App
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+    
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v3
+      
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 8.0.x
+        
+    - name: Instalar workloads MAUI
+      run: |
+        dotnet workload install maui
+        dotnet workload install ios
+        
+    - name: Restaurar pacotes
+      run: dotnet restore
+      
+    - name: Compilar iOS
+      run: dotnet build -f net8.0-ios -c Release
+      
+    - name: Publicar iOS
+      run: dotnet publish -f net8.0-ios -c Release
+      
+    - name: Fazer upload do IPA
+      uses: actions/upload-artifact@v3
+      with:
+        name: DeliveryPorecatu-iOS
+        path: bin/Release/net8.0-ios/ios/publish/*.ipa

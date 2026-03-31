@@ -18,15 +18,18 @@ jobs:
       with:
         dotnet-version: 8.0.x
         
-    - name: Forçar uso do .NET 8 (ignorar SDKs mais novos)
+    - name: Remover SDKs 9 e 10 do PATH
       run: |
-        echo "DOTNET_ROLL_FORWARD=Disable" >> $GITHUB_ENV
-        echo "DOTNET_SKIP_FIRST_TIME_EXPERIENCE=true" >> $GITHUB_ENV
+        echo "Removendo SDKs que causam conflito"
+        rm -rf /Users/runner/.dotnet/sdk/9.*
+        rm -rf /Users/runner/.dotnet/sdk/10.*
+        echo "DOTNET_ROOT=/Users/runner/.dotnet" >> $GITHUB_ENV
+        echo "$HOME/.dotnet" >> $GITHUB_PATH
         
     - name: Verificar versão do SDK
       run: dotnet --info
       
-    - name: Instalar workloads do MAUI para .NET 8
+    - name: Instalar workloads do MAUI
       run: |
         dotnet workload update
         dotnet workload install maui

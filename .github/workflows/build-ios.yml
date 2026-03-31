@@ -1,4 +1,5 @@
-﻿name: Build iOS App
+﻿@"
+name: Build iOS App
 
 on:
   push:
@@ -18,18 +19,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
         
-    - name: Remover SDKs 9 e 10 do PATH
-      run: |
-        echo "Removendo SDKs que causam conflito"
-        rm -rf /Users/runner/.dotnet/sdk/9.*
-        rm -rf /Users/runner/.dotnet/sdk/10.*
-        echo "DOTNET_ROOT=/Users/runner/.dotnet" >> $GITHUB_ENV
-        echo "$HOME/.dotnet" >> $GITHUB_PATH
-        
-    - name: Verificar versão do SDK
-      run: dotnet --info
-      
-    - name: Criar arquivo Entitlements.plist vazio
+    - name: Criar Entitlements.plist
       run: |
         mkdir -p Platforms/iOS
         echo '<?xml version="1.0" encoding="UTF-8"?>
@@ -69,3 +59,4 @@ jobs:
       with:
         name: DeliveryPorecatu-iOS
         path: bin/Release/net8.0-ios/ios/publish/*.ipa
+"@ | Out-File -FilePath .github\workflows\build-ios.yml -Encoding utf8

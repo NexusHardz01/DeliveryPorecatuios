@@ -11,30 +11,47 @@ jobs:
     
     steps:
     - uses: actions/checkout@v4
-    - name: Setup .NET 8
+    
+    - name: Limpar SDKs conflitantes
+      run: |
+        echo "Removendo SDKs 9 e 10"
+        sudo rm -rf /Users/runner/.dotnet/sdk/9.* || true
+        sudo rm -rf /Users/runner/.dotnet/sdk/10.* || true
+        echo "DOTNET_ROOT=/Users/runner/.dotnet" >> $GITHUB_ENV
+        echo "$HOME/.dotnet" >> $GITHUB_PATH
+        
+    - name: Configurar .NET 8
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
+        
     - name: Criar Entitlements.plist
       run: |
         mkdir -p Platforms/iOS
-        echo '<?xml version="1.0" encoding="UTF-8"?>
-        <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-        <plist version="1.0">
-        <dict>
-        </dict>
-        </plist>' > Platforms/iOS/Entitlements.plist
+        cat > Platforms/iOS/Entitlements.plist << 'EOF'
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+</dict>
+</plist>
+EOF
+        
     - name: Instalar workloads
       run: |
         dotnet workload update
         dotnet workload install maui
         dotnet workload install ios
+        
     - name: Restaurar pacotes
       run: dotnet restore --disable-parallel
-    - name: Build iOS
+      
+    - name: Compilar iOS
       run: dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
-    - name: Publish iOS
+      
+    - name: Publicar iOS
       run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+      
     - name: Upload IPA
       uses: actions/upload-artifact@v4
       with:

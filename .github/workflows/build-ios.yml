@@ -1,5 +1,4 @@
-﻿@"
-name: Build iOS App
+﻿name: Build iOS App
 
 on:
   push:
@@ -11,52 +10,33 @@ jobs:
     runs-on: macos-latest
     
     steps:
-    - name: Pegar o código
-      uses: actions/checkout@v4
-      
-    - name: Configurar .NET 8
+    - uses: actions/checkout@v4
+    - name: Setup .NET 8
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
-        
     - name: Criar Entitlements.plist
       run: |
         mkdir -p Platforms/iOS
         echo '<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-</dict>
-</plist>' > Platforms/iOS/Entitlements.plist
-        
-    - name: Instalar workloads do MAUI
+        <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+        <plist version="1.0">
+        <dict>
+        </dict>
+        </plist>' > Platforms/iOS/Entitlements.plist
+    - name: Instalar workloads
       run: |
         dotnet workload update
         dotnet workload install maui
         dotnet workload install ios
-        
     - name: Restaurar pacotes
       run: dotnet restore --disable-parallel
-      
-    - name: Compilar para iOS
-      run: |
-        dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel \
-          -p:EnableCodeSigning=false \
-          -p:CodesignKey= \
-          -p:CodesignProvision= \
-          -p:PackageSigningEnabled=false
-      
-    - name: Publicar para iOS
-      run: |
-        dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel \
-          -p:EnableCodeSigning=false \
-          -p:CodesignKey= \
-          -p:CodesignProvision= \
-          -p:PackageSigningEnabled=false
-      
-    - name: Fazer upload do IPA
+    - name: Build iOS
+      run: dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+    - name: Publish iOS
+      run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+    - name: Upload IPA
       uses: actions/upload-artifact@v4
       with:
         name: DeliveryPorecatu-iOS
         path: bin/Release/net8.0-ios/ios/publish/*.ipa
-"@ | Out-File -FilePath .github\workflows\build-ios.yml -Encoding utf8

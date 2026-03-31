@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Delivery_Porecatu.MainPage">
+
+    <WebView x:Name="WebView" 
+             Source="http://206.62.66.101/delivery/" 
+             HorizontalOptions="FillAndExpand" 
+             VerticalOptions="FillAndExpand" />
+
+</ContentPage>

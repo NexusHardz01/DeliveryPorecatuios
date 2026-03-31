@@ -1,0 +1,392 @@
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.csproj.AssemblyReference.cache
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.AssemblyInfoInputs.cache
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.AssemblyInfo.cs
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.csproj.CoreCompileInputs.cache
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery.13C2256D.Up2Date
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.dll
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\refint\Delivery Porecatu.dll
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.pdb
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Delivery Porecatu.genruntimeconfig.cache
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\ref\Delivery Porecatu.dll
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\obj\Release\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pedrinho\Desktop\WindowsApp\Platforms\Windows\App.xbf
+C:\Users\Pedrinho\Desktop\WindowsApp\AboutAssets.txt
+C:\Users\Pedrinho\Desktop\WindowsApp\splashSplashScreen.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\splashSplashScreen.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\splashSplashScreen.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\splashSplashScreen.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\splashSplashScreen.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\OpenSans-Regular.ttf
+C:\Users\Pedrinho\Desktop\WindowsApp\OpenSans-Semibold.ttf
+C:\Users\Pedrinho\Desktop\WindowsApp\appicon.ico
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLargeTile.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLargeTile.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLargeTile.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLargeTile.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLargeTile.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.targetsize-16.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.targetsize-24.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.targetsize-256.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.targetsize-32.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconLogo.targetsize-48.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconMediumTile.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconMediumTile.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconMediumTile.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconMediumTile.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconMediumTile.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconSmallTile.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconSmallTile.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconSmallTile.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconSmallTile.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconSmallTile.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconStoreLogo.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconStoreLogo.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconStoreLogo.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconStoreLogo.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconStoreLogo.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconWideTile.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconWideTile.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconWideTile.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconWideTile.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\appiconWideTile.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\dotnet_bot.scale-100.png
+C:\Users\Pedrinho\Desktop\WindowsApp\dotnet_bot.scale-125.png
+C:\Users\Pedrinho\Desktop\WindowsApp\dotnet_bot.scale-150.png
+C:\Users\Pedrinho\Desktop\WindowsApp\dotnet_bot.scale-200.png
+C:\Users\Pedrinho\Desktop\WindowsApp\dotnet_bot.scale-400.png
+C:\Users\Pedrinho\Desktop\WindowsApp\CoreMessagingXP.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\dcompi.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\dwmcorei.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\DwmSceneI.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\DWriteCore.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\marshal.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.DirectManipulation.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Graphics.Display.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.InputStateManager.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Composition.OSSupport.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Input.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Windowing.Core.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Windowing.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Xaml.Controls.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.ui.xaml.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Xaml.Internal.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Xaml.Phone.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.ui.xaml.resources.19h1.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.ui.xaml.resources.common.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Web.WebView2.Core.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.ApplicationModel.Resources.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.Widgets.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.WindowsAppRuntime.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.WindowsAppRuntime.Insights.Resource.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\MRM.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\PushNotificationsLongRunningTask.ProxyStub.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\WindowsAppSdk.AppxDeploymentExtensions.Desktop-EventLog-Instrumentation.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\WindowsAppSdk.AppxDeploymentExtensions.Desktop.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\WinUIEdit.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\wuceffectsi.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\RestartAgent.exe
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Xaml\Assets\map.html
+C:\Users\Pedrinho\Desktop\WindowsApp\af-ZA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\af-ZA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\am-ET\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\am-ET\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ar-SA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ar-SA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\as-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\as-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\az-Latn-AZ\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\az-Latn-AZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\bg-BG\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\bg-BG\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\bn-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\bn-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\bs-Latn-BA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\bs-Latn-BA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ca-Es-VALENCIA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ca-Es-VALENCIA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ca-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ca-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\cs-CZ\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\cs-CZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\cy-GB\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\cy-GB\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\da-DK\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\da-DK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\de-DE\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\de-DE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\el-GR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\el-GR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\en-GB\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\en-GB\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\en-us\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\en-us\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\es-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\es-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\es-MX\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\es-MX\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\et-EE\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\et-EE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\eu-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\eu-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fa-IR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fa-IR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fi-FI\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fi-FI\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fil-PH\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fil-PH\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fr-CA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fr-CA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fr-FR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\fr-FR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ga-IE\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ga-IE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\gd-gb\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\gd-gb\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\gl-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\gl-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\gu-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\gu-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\he-IL\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\he-IL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hi-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hi-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hr-HR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hr-HR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hu-HU\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hu-HU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hy-AM\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\hy-AM\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\id-ID\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\id-ID\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\is-IS\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\is-IS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\it-IT\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\it-IT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ja-JP\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ja-JP\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ka-GE\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ka-GE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\kk-KZ\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\kk-KZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\km-KH\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\km-KH\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\kn-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\kn-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ko-KR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ko-KR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\kok-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\kok-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lb-LU\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lb-LU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lo-LA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lo-LA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lt-LT\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lt-LT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lv-LV\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\lv-LV\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mi-NZ\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mi-NZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mk-MK\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mk-MK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ml-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ml-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mr-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mr-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ms-MY\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ms-MY\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mt-MT\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\mt-MT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\nb-NO\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\nb-NO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ne-NP\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ne-NP\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\nl-NL\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\nl-NL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\nn-NO\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\nn-NO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\or-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\or-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pa-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pa-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pl-PL\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pl-PL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pt-BR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pt-BR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pt-PT\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\pt-PT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\quz-PE\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\quz-PE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ro-RO\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ro-RO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ru-RU\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ru-RU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sk-SK\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sk-SK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sl-SI\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sl-SI\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sq-AL\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sq-AL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sr-Cyrl-BA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sr-Cyrl-BA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sr-Cyrl-RS\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sr-Cyrl-RS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sr-Latn-RS\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sr-Latn-RS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sv-SE\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\sv-SE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ta-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ta-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\te-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\te-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\th-TH\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\th-TH\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\tr-TR\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\tr-TR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\tt-RU\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\tt-RU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ug-CN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ug-CN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\uk-UA\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\uk-UA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ur-PK\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\ur-PK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\uz-Latn-UZ\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\uz-Latn-UZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\vi-VN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\vi-VN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\zh-CN\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\zh-CN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\zh-TW\Microsoft.ui.xaml.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\zh-TW\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png
+C:\Users\Pedrinho\Desktop\WindowsApp\WindowsAppRuntime.png
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Foundation.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Graphics.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Text.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.UI.Xaml.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Web.WebView2.Core.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.ApplicationModel.DynamicDependency.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.ApplicationModel.Resources.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.AppLifecycle.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.AppNotifications.Builder.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.AppNotifications.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.Management.Deployment.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.PushNotifications.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.Security.AccessControl.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.System.Power.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.System.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Microsoft.Windows.Widgets.winmd
+C:\Users\Pedrinho\Desktop\WindowsApp\Delivery Porecatu.exe
+C:\Users\Pedrinho\Desktop\WindowsApp\Delivery Porecatu.deps.json
+C:\Users\Pedrinho\Desktop\WindowsApp\Delivery Porecatu.runtimeconfig.json
+C:\Users\Pedrinho\Desktop\WindowsApp\Delivery Porecatu.dll
+C:\Users\Pedrinho\Desktop\WindowsApp\Delivery Porecatu.pdb
+C:\Users\Pedrinho\Desktop\WindowsApp\resources.pri

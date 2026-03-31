@@ -1,0 +1,4 @@
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\bin\Release\net8.0-android\publish\com.companyname.deliveryporecatu-Signed.apk
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\bin\Release\net8.0-android\publish\com.companyname.deliveryporecatu.apk
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\bin\Release\net8.0-android\publish\com.companyname.deliveryporecatu-Signed.aab
+C:\Users\Pedrinho\Desktop\Delivery Porecatu\Delivery Porecatu\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll

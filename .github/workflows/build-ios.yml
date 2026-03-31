@@ -42,11 +42,11 @@ jobs:
       - name: Restaurar pacotes
         run: dotnet restore --disable-parallel
         
-      - name: Build do projeto (não da solução)
-        run: dotnet build Delivery Porecatu.csproj -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+      - name: Build do projeto
+        run: dotnet build "Delivery Porecatu.csproj" -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
           
       - name: Publicar para iOS
-        run: dotnet publish Delivery Porecatu.csproj -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:RuntimeIdentifier=ios-arm64 -p:ArchiveOnBuild=true
+        run: dotnet publish "Delivery Porecatu.csproj" -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:RuntimeIdentifier=ios-arm64 -p:ArchiveOnBuild=true
           
       - name: Upload IPA
         uses: actions/upload-artifact@v4

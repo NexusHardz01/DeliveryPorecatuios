@@ -13,8 +13,6 @@ jobs:
         run: |
           sudo rm -rf /Users/runner/.dotnet/sdk/10.* || true
           sudo rm -rf /Users/runner/.dotnet/sdk/9.* || true
-          sudo rm -rf /usr/local/share/dotnet/sdk/10.* || true
-          sudo rm -rf /usr/local/share/dotnet/sdk/9.* || true
           echo "DOTNET_ROOT=/Users/runner/.dotnet" >> $GITHUB_ENV
           echo "$HOME/.dotnet" >> $GITHUB_PATH
           
@@ -25,9 +23,6 @@ jobs:
         with:
           dotnet-version: 8.0.x
           
-      - name: Verificar versão do SDK
-        run: dotnet --info
-        
       - name: Criar Entitlements.plist
         run: |
           mkdir -p Platforms/iOS
@@ -46,15 +41,15 @@ jobs:
           
       - name: Restaurar pacotes
         run: dotnet restore --disable-parallel
-        
+          
       - name: Build iOS
-        run: dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
-        
-      - name: Publish iOS
-        run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
-        
+        run: dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:RuntimeIdentifier=ios-arm64
+          
+      - name: Publicar iOS
+        run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:RuntimeIdentifier=ios-arm64 -p:ArchiveOnBuild=true
+          
       - name: Upload IPA
         uses: actions/upload-artifact@v4
         with:
           name: DeliveryPorecatu-iOS
-          path: bin/Release/net8.0-ios/ios/publish/*.ipa
+          path: bin/Release/net8.0-ios/ios-arm64/publish/*.ipa

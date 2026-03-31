@@ -39,11 +39,11 @@ jobs:
           dotnet workload install maui
           dotnet workload install ios
           
-      - name: Restaurar pacotes
-        run: dotnet restore --disable-parallel
-        
+      - name: Restaurar pacotes com RuntimeIdentifier
+        run: dotnet restore "Delivery Porecatu.csproj" -f net8.0-ios -r ios-arm64 --disable-parallel
+          
       - name: Build do projeto
-        run: dotnet build "Delivery Porecatu.csproj" -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+        run: dotnet build "Delivery Porecatu.csproj" -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:RuntimeIdentifier=ios-arm64
           
       - name: Publicar para iOS
         run: dotnet publish "Delivery Porecatu.csproj" -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false -p:RuntimeIdentifier=ios-arm64 -p:ArchiveOnBuild=true

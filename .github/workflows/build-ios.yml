@@ -9,11 +9,25 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
+      - name: Remover SDKs 10 e 9
+        run: |
+          sudo rm -rf /Users/runner/.dotnet/sdk/10.* || true
+          sudo rm -rf /Users/runner/.dotnet/sdk/9.* || true
+          sudo rm -rf /usr/local/share/dotnet/sdk/10.* || true
+          sudo rm -rf /usr/local/share/dotnet/sdk/9.* || true
+          echo "DOTNET_ROOT=/Users/runner/.dotnet" >> $GITHUB_ENV
+          echo "$HOME/.dotnet" >> $GITHUB_PATH
+          
       - uses: actions/checkout@v4
+      
       - name: Setup .NET 8
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8.0.x
+          
+      - name: Verificar versão do SDK
+        run: dotnet --info
+        
       - name: Criar Entitlements.plist
         run: |
           mkdir -p Platforms/iOS
@@ -23,17 +37,22 @@ jobs:
           <dict>
           </dict>
           </plist>' > Platforms/iOS/Entitlements.plist
+          
       - name: Instalar workloads
         run: |
           dotnet workload update
           dotnet workload install maui
           dotnet workload install ios
+          
       - name: Restaurar pacotes
         run: dotnet restore --disable-parallel
+        
       - name: Build iOS
         run: dotnet build -f net8.0-ios -c Release --no-restore --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+        
       - name: Publish iOS
         run: dotnet publish -f net8.0-ios -c Release --no-build --disable-parallel -p:EnableCodeSigning=false -p:CodesignKey= -p:CodesignProvision= -p:PackageSigningEnabled=false
+        
       - name: Upload IPA
         uses: actions/upload-artifact@v4
         with:
